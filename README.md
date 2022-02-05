@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Having had experience with Java rather than Kotlin, I did find it a bit challenging to adapt to the new changes, such as the variables, however it was refreshing to be using a new technology. I also found working with RecyclerView to be a bit challenging as I had never worked with it, nevertheless I did enjoy learning how to utilize it. 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Sabrina Pena]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
