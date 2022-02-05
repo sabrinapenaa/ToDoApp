@@ -29,8 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-Having had experience with Java rather than Kotlin, I did find it a bit challenging to remember to keep in mind that I was using Kotlin. I also found working with RecyclerView to be a bit challenging as I had never worked with it, nevertheless I did enjoy learning how to utilize it. 
+Having had experience with Java rather than Kotlin, I did find it a bit challenging to adapt to the new changes, such as the variables, however it was refreshing to be using a new technology. I also found working with RecyclerView to be a bit challenging as I had never worked with it, nevertheless I did enjoy learning how to utilize it. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
