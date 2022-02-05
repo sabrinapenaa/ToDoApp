@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+Gif can be found at: https://imgur.com/a/KIX4bxR if GitHub does not display it!
 <img src="https://i.imgur.com/a/KIX4bxR.gif"  title="Video Walkthrough" width='200' >
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
